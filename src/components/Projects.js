@@ -18,11 +18,11 @@ const Projects = () => {
 	const projects = [
 		{
 			image: `${ImageHomewind}`,
-			name: 'Homewind',
-			desc: 'Manage and maintain your buildings, flats and renter information',
-			github: 'https://github.com/shofiq0023/homewind-rent-management',
+			name: 'object detection app',
+			desc: 'Object detection app by tensorflow lite. which can detect different object.',
+			github: 'https://github.com/TusharJarif10/Camera_visions.git',
 			website: 'https://homewind.netlify.app/',
-			technology: ['Bootstrap', 'Angular', 'Firebase', 'Firestore'],
+			technology: ['tensorflow lite', 'dirt', 'flutter'],
 			id: generateId()
 		},
 		{

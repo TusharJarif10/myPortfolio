@@ -4,12 +4,12 @@
 	margin: 0;
 }
 :root {
-	--dark-color: #2e2d2b;
+	--dark-color: #07174e;
 	--dark-second-color: #013771;
 	--dark-second-color-hover: #42bdf6;
-	--dark-third-color: #2d3a46;
-	--purple-color: #c34109;
-	--sky-blue-color: #4bdaf3;
+	--dark-third-color: #001b34;
+	--purple-color: #00d3de;
+	--sky-blue-color: #f74242;
 	--transition-duration: 300ms;
 	--transition-timming: ease-in-out;
 	--transition: var(--transition-timming) var(--transition-duration);

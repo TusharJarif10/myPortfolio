@@ -41,7 +41,7 @@ const Header = () => {
 						/>
 						<div className="btn-custom-parent mt-4">
 							<a
-								href="https://drive.google.com/uc?export=download&amp;id=1kn7Qfa6d35iPzyAOc2eoBVsxXXvbygT3"
+								href="https://drive.google.com/uc?export=download&id=1mWdkmS1QiwLSXwWTRBfNEklULhSPYv_O"
 								className="btn-custom"
 							>
 								Download my resume
