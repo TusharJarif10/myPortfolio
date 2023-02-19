@@ -81,7 +81,7 @@ section {
 	align-items: center;
 }
 .header .my-pic {
-	border-radius: 50%;
+	border-radius: 100%;
 }
 .header .my-image-mobile {
 	display: none;

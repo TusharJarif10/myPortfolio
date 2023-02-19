@@ -1,5 +1,5 @@
 import { Container, Row, Col, Image } from "react-bootstrap";
-import { FaLinkedin, FaTwitter, FaGithub, FaHackerrank } from "react-icons/fa";
+import { FaLinkedin, FaTwitter, FaGithub, FaHackerrank, FaMobile } from "react-icons/fa";
 import myImage from "../image/my-pic.jpeg";
 import HeaderAddress from "./sub-components/HeaderAddress";
 
@@ -39,9 +39,11 @@ const Header = () => {
 							link="https://www.hackerrank.com/h17101030"
 							linkName="hackerrank.com/h17101030"
 						/>
+					
+					
 						<div className="btn-custom-parent mt-4">
 							<a
-								href="https://drive.google.com/uc?export=download&id=1mWdkmS1QiwLSXwWTRBfNEklULhSPYv_O"
+								href="https://drive.google.com/file/d/176xeH7s-sPWip-7Dfo2j27hAsD8oX2Pv/view?usp=sharing"
 								className="btn-custom"
 							>
 								Download my resume
